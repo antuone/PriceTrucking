@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Price Trucking</string>
+    <string name="city_in">В какой населенный пункт</string>
+    <string name="city_from">Из какого населенного пункта</string>
+    <string name="volume">Объем (куб. м.)</string>
+    <string name="weight">Вес (кг)</string>
+    <string name="calculation_button">Узнать стоимость</string>
+    <string name="warning">Пожалуйста заполните все данные</string>
+</resources>
